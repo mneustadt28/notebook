@@ -1,0 +1,184 @@
+sgid ""
+msgstr ""
+"Language: English\n"
+
+#: shared/leaflet_popups/static/leaflet_popups/NewAssetPopup.js
+msgid "All right"
+msgstr ""
+
+
+#: apps/grid_study/static/grid_study/js/grid_studies_helpers.js
+msgid "All season"
+msgstr ""
+
+
+#: shared/leaflet_popups/scripts/popupFnc.js
+#: shared/leaflet_popups/static/leaflet_popups/popupFnc.js
+msgid "An error occured while reading the data."
+msgstr ""
+
+
+#: shared/leaflet_popups/static/leaflet_popups/NewElementProfile.js
+msgid "Annual Energy Consumption"
+msgstr ""
+
+
+
+#: apps/data_control_center/static/data_control_center/js/VueComponents/CardContainer.js
+msgid "Apply Change"
+msgstr ""
+
+
+#: apps/grid_transparency/data_quality/static/data_quality/js/difi/difi.js
+msgid "Apply filter"
+msgstr ""
+
+
+#: apps/data_control_center/static/data_control_center/js/VueComponents/CardContainer.js
+msgid "Are you sure about this operation?"
+msgstr ""
+
+#: base/translation/strings_for_translation_js.js
+msgid "Areas"
+msgstr ""
+
+
+#: apps/data_control_center/static/data_control_center/js/data_control_center.js
+#: apps/grid_transparency/data_quality/static/data_quality/js/data_quality.js
+#: apps/grid_transparency/static/grid_transparency/js/grid_transparency_structural_data.js
+msgid "Asset additions"
+msgstr ""
+
+
+#: apps/data_control_center/static/data_control_center/js/data_control_center.js
+#: apps/grid_transparency/data_quality/static/data_quality/js/data_quality.js
+msgid "Asset type"
+msgstr ""
+
+
+#: apps/data_control_center/static/data_control_center/js/data_control_center.js
+#: apps/grid_transparency/data_quality/static/data_quality/js/data_quality.js
+msgid "Attribute"
+msgstr ""
+
+
+
+#: shared/grid_interactive_planning/scripts/gip.js
+msgid ""
+"You are currently in editing mode. Finish or cancel your current edit before starting to delete "
+"Elements"
+msgstr ""
+
+
+#: shared/grid_interactive_planning/static/gip/tools/UpdateLineTool.js
+#: shared/leaflet_popups/scripts/popupFnc.js
+#: shared/leaflet_popups/static/leaflet_popups/popupFnc.js
+msgid ""
+"You are currently in editing mode. Finish or cancel your current edit before starting to modify "
+"Elements"
+msgstr ""
+
+
+#: apps/connection_request/static/connection_request/js/cr_dossier.js
+msgid "Your changes could not be saved! Sorry"
+msgstr ""
+
+
+#: apps/connection_request/static/connection_request/js/cr_dossier.js
+msgid "Your changes have been saved"
+msgstr ""
+
+
+#: apps/connection_request/static/connection_request/js/cr_dossier.js
+msgid "Your changes will be saved"
+msgstr ""
+
+
+#: apps/grid_study/static/grid_study/js/study_data_new.js
+msgid "absolute"
+msgstr ""
+
+
+#: apps/grid_study/static/grid_study/js/study_data_new.js
+#: base/settings/static/settings/bundle.js
+#: base/settings/static/settings/translations.js
+msgid "and"
+msgstr ""
+
+
+#: apps/grid_study/static/grid_study/js/study_data_new.js
+msgid "average"
+msgstr ""
+
+
+#: base/static/base/scripts/js/helpers/dataTableLanguage.js
+msgid "click on row to select"
+msgstr ""
+
+
+#: shared/static/shared/js/scenario_table_fnc.js
+msgid "date of creation"
+msgstr ""
+
+#: apps/data_control_center/static/data_control_center/js/data_control_center.js
+#: apps/grid_transparency/data_quality/static/data_quality/js/data_quality.js
+#: apps/grid_transparency/static/grid_transparency/js/grid_transparency_structural_data.js
+msgid "element type"
+msgstr ""
+
+
+#: apps/grid_transparency/data_quality/static/data_quality/js/difi/difi.js
+msgid "filter by"
+msgstr ""
+
+
+#: base/scripts/igp/igp.js
+#: base/static/base/scripts/js/igp/igp.js
+msgid "less"
+msgstr ""
+
+#: base/scripts/igp/igp.js
+#: base/settings/static/settings/bundle.js
+#: base/settings/static/settings/translations.js
+#: base/static/base/scripts/js/igp/igp.js
+msgid "more"
+msgstr ""
+
+#: apps/data_control_center/static/data_control_center/js/VueComponents/CardContainer.js
+#: apps/grid_transparency/schematic_plans/scripts/js/plotter/controls/export.js
+msgid "of"
+msgstr ""
+
+#: shared/static/shared/js/common_legend_fnc.js
+msgid "persistent"
+msgstr ""
+
+#: apps/data_control_center/static/data_control_center/js/data_control_center.js
+#: apps/grid_transparency/data_quality/static/data_quality/js/data_quality.js
+#: apps/grid_transparency/static/grid_transparency/js/grid_transparency_structural_data.js
+msgid "quality"
+msgstr ""
+
+#: shared/static/shared/js/common_legend_fnc.js
+msgid "reserved"
+msgstr ""
+
+#: apps/grid_study/static/grid_study/js/study_data_new.js
+msgid "selected"
+msgstr ""
+
+#: apps/data_control_center/static/data_control_center/js/VueComponents/CardContainer.js
+#: apps/grid_transparency/data_quality/static/data_quality/js/di_pagination.js
+#: base/static/base/scripts/js/igp/control_components/pagination.js
+msgid "to"
+msgstr ""
+
+#: base/settings/static/settings/bundle.js
+#: base/settings/static/settings/translations.js
+msgid "to display case information."
+msgstr ""
+
+#: apps/grid_study/static/grid_study/js/grid_studies_helpers.js
+#: shared/leaflet_popups/static/leaflet_popups/NewElementProfile.js
+msgid "underexcited"
+msgstr ""
