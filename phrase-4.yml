@@ -3,15 +3,14 @@ phrase:
   project_id: a3d34dc7febc18a49d579ebc3c76bbc8
   push:
     sources:
-    - file: 70fbf73c7a729305a476b941b1bac38a.html
+    - file: html.html
       params:
         file_format: html
-        locale_id: en
+        locale_id: 70fbf73c7a729305a476b941b1bac38a
+        
   pull:
     targets:
-    - file: aba48d7602c7f6717d2d96e960b70fec.html
+    - file: html.html
       params:
         file_format: html
-        locale_id: de
-        format_options:
-          	document_id: ...
+        locale_id: aba48d7602c7f6717d2d96e960b70fec
